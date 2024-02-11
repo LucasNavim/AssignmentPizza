@@ -52,6 +52,9 @@
             </section>
             <section>
                 <h2>Toppings</h2>
+                <p>
+                    All pizzas come with tomato sauce and mozzarela
+                </p>
                 <label for="toppings">Select Toppings (Hold Ctrl/Cmd to select multiple):</label>
                 <select id="toppings" name="toppings[]" multiple>
                     <option value="pepperoni">Pepperoni</option>
